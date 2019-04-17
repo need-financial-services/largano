@@ -2,7 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Argano;Lauren;;;
-FN:Lauren ArganoORG:NEED Financial Services;
+FN:Lauren Argano;
+ORG:NEED Financial Services;
 TITLE:Production Accountant
 EMAIL;type=INTERNET;type=WORK;type=pref:largano@needfs.com
 TEL;type=WORK;type=VOICE:+13103951500
